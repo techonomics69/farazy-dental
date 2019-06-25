@@ -1,0 +1,130 @@
+.welcome-tune{
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    z-index: 999;
+}
+
+.team .content{
+    height: 170px;
+    position: relative;
+}
+.team .content .btn{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.services-heading{
+    min-height: 42px;
+}
+.services-content{
+    min-height: 100px;
+}
+
+.checkbox-inline, .radio-inline{
+    margin-left: 10px;
+}
+.service-icon-media{
+    width: auto;
+    max-width: 80px;
+}
+.doc-specialization {
+    font-size: 12px !important;
+    font-weight: normal !important;
+    min-height: 150px;
+    text-align: justify;
+}
+.doctor-name{
+    font-size: 14px !important;
+}
+.service-icon-box{
+    height: 140px;
+}
+.service-icon-box .icon {
+    background: #eeeeee;
+    color: #fff;
+    display: inline-block;
+    height: 70px;
+    line-height: 80px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+    width: 70px;
+}
+.multi-row-clearfix .team{
+    height: 500px;
+}
+.menuzord-menu > li > a{
+    color: #fff;
+}
+.menuzord-menu > li.active > a, .menuzord-menu > li:hover > a{
+    color: #89C43A !important;
+    background-color: #f5f5f5 !important;
+}
+.menuzord .menuzord-menu ul.dropdown li:hover > a{
+    background-color: #89C43A;
+    color: #fff;
+}
+@media only screen and (max-width: 900px){
+    .menuzord-menu {
+        background: #f5f5f5;
+    }
+    .menuzord-menu > li > a{
+        color: #89C43A;
+    }
+}
+
+.bg-green{
+    background-color: #89C43A;
+}
+.bg-red{
+    background-color: red;
+}
+.text-green{
+    color: #89C43A;
+}
+table>tbody>tr>td.p-r-20{
+    padding-right: 20px;
+}
+.social-icons a{
+    border: 0px !important;
+}
+
+.social-icons .facebook-link{
+    background-color: #4267b2;
+    color: #fff !important;
+}
+.social-icons .facebook-link:hover{
+    color: #4267b2 !important;
+    background-color: #fff !important;
+}
+
+.social-icons .twitter-link{
+    background-color: #33CCFF;
+    color: #fff!important;
+}
+.social-icons .twitter-link:hover{
+    color: #33CCFF !important;
+    background-color: #fff !important;
+}
+
+.social-icons .google-plus{
+    background-color: #DD4B39;
+    color: #fff !important;
+}
+.social-icons .google-plus:hover{
+    color: #DD4B39 !important;
+    background-color: #fff !important;
+}
+
+.social-icons .linkedin-link{
+    background-color: #4875B4;
+    color: #fff !important;
+}
+.social-icons .linkedin-link:hover{
+    color: #4875B4 !important;
+    background-color: #fff !important;
+}
